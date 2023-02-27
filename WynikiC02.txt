@@ -168,5 +168,27 @@ CELINSKI        30
 
 (7 rows affected)
 
+Nazwisko        Stanowisko           Stawka
+--------------- -------------------- ---------------------
+SUMINSKI        DYREKTOR             53,4406
+BARTCZAK        KIEROWNIK            28,50
+MALINOWSKI      KIEROWNIK            25,4375
+BRZEZINSKI      KIEROWNIK            31,00
+ZABLOCKI        BRYGADZISTA          30,8437
+LEWANDOWSKI     BRYGADZISTA          16,5343
+KOPROWSKI       BRYGADZISTA          16,1875
 
-Completion time: 2023-02-27T15:02:03.7214059+01:00
+(7 rows affected)
+
+Nazwisko        Stanowisko           Placa_pod             Placa_dod
+--------------- -------------------- --------------------- ---------------------
+ZABLOCKI        BRYGADZISTA          4830,00               105,00
+SUMINSKI        DYREKTOR             8130,00               420,50
+BARTCZAK        KIEROWNIK            4350,00               210,00
+BRZEZINSKI      KIEROWNIK            4960,00               NULL
+MALINOWSKI      KIEROWNIK            4070,00               NULL
+
+(5 rows affected)
+
+
+Completion time: 2023-02-27T15:18:29.6681472+01:00
