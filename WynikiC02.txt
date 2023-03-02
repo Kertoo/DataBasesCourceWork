@@ -134,14 +134,14 @@ ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_p
 (5 rows affected)
 
 Nazwisko        Stanowisko           Oddział
---------------- -------------------- --------------------
-SUMINSKI        DYREKTOR             POZNAN
-MALINOWSKI      KIEROWNIK            KRAKOW
-BRZEZINSKI      KIEROWNIK            WARSZAWA
-LEWANDOWSKI     BRYGADZISTA          WARSZAWA
-KOPROWSKI       BRYGADZISTA          WARSZAWA
-JEZIERSKI       MONTER               WARSZAWA
-CELINSKI        PRAKTYKANT           KRAKOW
+--------------- -------------------- -----------
+SUMINSKI        DYREKTOR             10
+MALINOWSKI      KIEROWNIK            30
+BRZEZINSKI      KIEROWNIK            20
+LEWANDOWSKI     BRYGADZISTA          20
+KOPROWSKI       BRYGADZISTA          20
+JEZIERSKI       MONTER               20
+CELINSKI        PRAKTYKANT           30
 
 (7 rows affected)
 
@@ -158,23 +158,21 @@ ID          Szef        Nazwisko        Placa_pod
 
 Nazwisko        Oddział
 --------------- -----------
-SUMINSKI        10
-MALINOWSKI      30
 BRZEZINSKI      20
 LEWANDOWSKI     20
 KOPROWSKI       20
 JEZIERSKI       20
-CELINSKI        30
+MALINIAK        20
 
-(7 rows affected)
+(5 rows affected)
 
 Nazwisko        Stanowisko           Stawka
 --------------- -------------------- ---------------------
 SUMINSKI        DYREKTOR             53,4406
-BARTCZAK        KIEROWNIK            28,50
-MALINOWSKI      KIEROWNIK            25,4375
 BRZEZINSKI      KIEROWNIK            31,00
 ZABLOCKI        BRYGADZISTA          30,8437
+BARTCZAK        KIEROWNIK            28,50
+MALINOWSKI      KIEROWNIK            25,4375
 LEWANDOWSKI     BRYGADZISTA          16,5343
 KOPROWSKI       BRYGADZISTA          16,1875
 
@@ -190,5 +188,13 @@ MALINOWSKI      KIEROWNIK            4070,00               NULL
 
 (5 rows affected)
 
+Kierownicy
+--------------------------------------------------------------------------------------------------
+BRZEZINSKI pracuje od 1968-07-01 i zarabia 4960.00
+BARTCZAK pracuje od 1973-05-01 i zarabia 4350.00
+MALINOWSKI pracuje od 1977-09-01 i zarabia 4070.00
 
-Completion time: 2023-02-27T15:18:29.6681472+01:00
+(3 rows affected)
+
+
+Completion time: 2023-03-02T10:07:42.4744165+01:00

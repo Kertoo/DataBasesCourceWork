@@ -34,9 +34,9 @@ SELECT * FROM Pracownicy
 WHERE Placa_pod BETWEEN 1300 AND 1800
 
 -- Zad 11 --
-SELECT Pracownicy.Nazwisko, Pracownicy.Stanowisko, [Oddzia³] = Oddzialy.Nazwa 
-FROM Pracownicy, Oddzialy 
-WHERE Nazwisko LIKE '%ski%' AND Oddzialy.ID = Pracownicy.ID_Oddz
+SELECT Nazwisko, Stanowisko, [Oddzia³] = ID_Oddz 
+FROM Pracownicy 
+WHERE Nazwisko LIKE '%ski%'
 
 -- Zad 12 --
 SELECT ID, Szef, Nazwisko, Placa_pod FROM Pracownicy 
@@ -44,12 +44,13 @@ WHERE Placa_pod > 2000 AND Szef IS NOT NULL
 
 -- Zad 13 --
 SELECT Nazwisko, Oddzia³ = ID_Oddz FROM Pracownicy
-WHERE ID_Oddz = 20 AND Nazwisko LIKE '^M' OR Nazwisko LIKE '%ski'
+WHERE ID_Oddz = 20 AND (Nazwisko LIKE 'M%' OR Nazwisko LIKE '%ski')
 
 -- Zad 14 --
 SELECT Nazwisko, Stanowisko, [Stawka] = (Placa_pod + ISNULL(Placa_dod, 0)) / (20 * 8) 
 FROM Pracownicy 
 WHERE Stanowisko NOT IN ('MONTER', 'PRAKTYKANT') AND Placa_pod NOT BETWEEN 1400 AND 1800
+ORDER BY Stawka DESC
 
 -- Zad 15 --
 SELECT Nazwisko, Stanowisko, Placa_pod, Placa_dod 
