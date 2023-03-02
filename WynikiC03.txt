@@ -1,0 +1,164 @@
+﻿Nazwisko        KOD
+--------------- --------------------------------
+SUMINSKI        DY100
+BARTCZAK        KI110
+MALINOWSKI      KI120
+BRZEZINSKI      KI130
+ZABLOCKI        BR140
+LEWANDOWSKI     BR150
+KOPROWSKI       BR160
+JEZIERSKI       MO170
+BOGULA          SE180
+MALINIAK        MO190
+URBANIAK        PR200
+CELINSKI        PR210
+KOWAL           MO220
+HANTCZAK        MO230
+
+(14 rows affected)
+
+Nazwisko        WOJNA_LITEROM
+--------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SUMINSKI        SUXINSXI
+BARTCZAK        BARTCZAX
+MALINOWSKI      XAXINOWSXI
+BRZEZINSKI      BRZEZINSXI
+ZABLOCKI        ZABXOCXI
+LEWANDOWSKI     XEWANDOWSXI
+KOPROWSKI       XOPROWSXI
+JEZIERSKI       JEZIERSXI
+BOGULA          BOGUXA
+MALINIAK        XAXINIAX
+URBANIAK        URBANIAX
+CELINSKI        CEXINSXI
+KOWAL           XOWAX
+HANTCZAK        HANTCZAX
+
+(14 rows affected)
+
+Nazwisko
+---------------
+MALINOWSKI
+ZABLOCKI
+LEWANDOWSKI
+MALINIAK
+CELINSKI
+
+(5 rows affected)
+
+Nazwisko        Podwyzka
+--------------- -----------
+SUMINSKI        9350
+BARTCZAK        5003
+MALINOWSKI      4681
+BRZEZINSKI      5704
+ZABLOCKI        5555
+LEWANDOWSKI     3042
+KOPROWSKI       2979
+JEZIERSKI       1656
+BOGULA          1622
+MALINIAK        1577
+URBANIAK        1044
+CELINSKI        1093
+KOWAL           1702
+HANTCZAK        1702
+
+(14 rows affected)
+
+Nazwisko        Placa_pod             Inwestycja            Kapital               Zysk
+--------------- --------------------- --------------------- --------------------- ---------------------
+SUMINSKI        8130,00               1626,00               4217,43               2591,43
+BARTCZAK        4350,00               870,00                2256,56               1386,56
+MALINOWSKI      4070,00               814,00                2111,31               1297,31
+BRZEZINSKI      4960,00               992,00                2572,99               1580,99
+ZABLOCKI        4830,00               966,00                2505,56               1539,56
+LEWANDOWSKI     2645,50               529,10                1372,35               843,25
+KOPROWSKI       2590,00               518,00                1343,56               825,56
+JEZIERSKI       1439,70               287,94                746,84                458,90
+BOGULA          1410,20               282,04                731,54                449,50
+MALINIAK        1371,00               274,20                711,20                437,00
+URBANIAK        908,00                181,60                471,02                289,42
+CELINSKI        950,00                190,00                492,81                302,81
+KOWAL           1480,00               296,00                767,75                471,75
+HANTCZAK        1480,00               296,00                767,75                471,75
+
+(14 rows affected)
+
+Nazwisko        Zatrudniony Staż_w_2000
+--------------- ----------- -----------
+SUMINSKI        1968-01-01  32
+BARTCZAK        1973-05-01  27
+MALINOWSKI      1977-09-01  23
+BRZEZINSKI      1968-07-01  32
+ZABLOCKI        1975-09-15  25
+LEWANDOWSKI     1977-09-01  23
+KOPROWSKI       1985-03-01  15
+JEZIERSKI       1992-10-01  8
+BOGULA          1985-02-20  15
+MALINIAK        1993-09-01  7
+URBANIAK        1994-07-15  6
+CELINSKI        1993-10-15  7
+KOWAL           1993-01-10  7
+HANTCZAK        1992-09-01  8
+
+(14 rows affected)
+
+Zmieniono ustawienia języka na polski.
+Nazwisko        Data_Zatrudnienia
+--------------- --------------------------------------------------------------------------------------------
+BRZEZINSKI      lipiec 1 1968
+ZABLOCKI        wrzesień 15 1975
+LEWANDOWSKI     wrzesień 1 1977
+KOPROWSKI       marzec 1 1985
+JEZIERSKI       październik 1 1992
+MALINIAK        wrzesień 1 1993
+KOWAL           styczeń 10 1993
+
+(7 rows affected)
+
+Dziś
+------------------------------
+czwartek
+
+(1 row affected)
+
+Nazwisko        Oddział     Region
+--------------- ----------- -----------------
+SUMINSKI        10          POLSKA CENTRALNA
+BARTCZAK        40          POLSKA POŁUDNIOWA
+MALINOWSKI      30          POLSKA POŁUDNIOWA
+BRZEZINSKI      20          POLSKA CENTRALNA
+ZABLOCKI        20          POLSKA CENTRALNA
+LEWANDOWSKI     20          POLSKA CENTRALNA
+KOPROWSKI       20          POLSKA CENTRALNA
+JEZIERSKI       20          POLSKA CENTRALNA
+BOGULA          10          POLSKA CENTRALNA
+MALINIAK        20          POLSKA CENTRALNA
+URBANIAK        30          POLSKA POŁUDNIOWA
+CELINSKI        30          POLSKA POŁUDNIOWA
+KOWAL           20          POLSKA CENTRALNA
+HANTCZAK        30          POLSKA POŁUDNIOWA
+
+(14 rows affected)
+
+Nazwisko        Placa_pod             Próg
+--------------- --------------------- ------------
+SUMINSKI        8130,00               Powyżej 1480
+BARTCZAK        4350,00               Powyżej 1480
+MALINOWSKI      4070,00               Powyżej 1480
+BRZEZINSKI      4960,00               Powyżej 1480
+ZABLOCKI        4830,00               Powyżej 1480
+LEWANDOWSKI     2645,50               Powyżej 1480
+KOPROWSKI       2590,00               Powyżej 1480
+JEZIERSKI       1439,70               Poniżej 1480
+BOGULA          1410,20               Poniżej 1480
+MALINIAK        1371,00               Poniżej 1480
+URBANIAK        908,00                Poniżej 1480
+CELINSKI        950,00                Poniżej 1480
+KOWAL           1480,00               Równo 1480
+HANTCZAK        1480,00               Równo 1480
+
+(14 rows affected)
+
+
+Completion time: 2023-03-02T12:22:58.6286471+01:00
