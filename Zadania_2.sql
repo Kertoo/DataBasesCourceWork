@@ -34,7 +34,8 @@ SELECT * FROM Pracownicy
 WHERE Placa_pod BETWEEN 1300 AND 1800
 
 -- Zad 11 --
-SELECT Pracownicy.Nazwisko, Pracownicy.Stanowisko, [Oddzia³] = Oddzialy.Nazwa FROM Pracownicy, Oddzialy 
+SELECT Pracownicy.Nazwisko, Pracownicy.Stanowisko, [Oddzia³] = Oddzialy.Nazwa 
+FROM Pracownicy, Oddzialy 
 WHERE Nazwisko LIKE '%ski%' AND Oddzialy.ID = Pracownicy.ID_Oddz
 
 -- Zad 12 --
@@ -46,13 +47,17 @@ SELECT Nazwisko, Oddzia³ = ID_Oddz FROM Pracownicy
 WHERE ID_Oddz = 20 AND Nazwisko LIKE '^M' OR Nazwisko LIKE '%ski'
 
 -- Zad 14 --
-SELECT Nazwisko, Stanowisko, [Stawka] = (Placa_pod + ISNULL(Placa_dod, 0)) / (20 * 8)
-FROM Pracownicy WHERE Stanowisko NOT IN ('MONTER', 'PRAKTYKANT') AND Placa_pod NOT BETWEEN 1400 AND 1800
+SELECT Nazwisko, Stanowisko, [Stawka] = (Placa_pod + ISNULL(Placa_dod, 0)) / (20 * 8) 
+FROM Pracownicy 
+WHERE Stanowisko NOT IN ('MONTER', 'PRAKTYKANT') AND Placa_pod NOT BETWEEN 1400 AND 1800
 
 -- Zad 15 --
-SELECT Nazwisko, Stanowisko, Placa_pod, Placa_dod FROM Pracownicy 
+SELECT Nazwisko, Stanowisko, Placa_pod, Placa_dod 
+FROM Pracownicy 
 WHERE (Placa_pod + ISNULL(Placa_dod, 0)) > 3000
 ORDER BY Stanowisko, Nazwisko
 
-
 -- Zad 16 --
+SELECT Kierownicy = Nazwisko + ' pracuje od ' + CAST(Zatrudniony as varchar) + ' i zarabia ' + CAST(Placa_pod as varchar) 
+FROM Pracownicy
+WHERE Stanowisko = 'Kierownik' ORDER BY Placa_pod DESC
