@@ -1,0 +1,128 @@
+﻿MAXIMUM               MINIMUM               RÓŻNICA
+--------------------- --------------------- ---------------------
+8130,00               908,00                7222,00
+
+(1 row affected)
+
+STANOWISKO           ŚREDNIA
+-------------------- ---------------------
+DYREKTOR             8130,00
+KIEROWNIK            4460,00
+BRYGADZISTA          3355,1666
+MONTER               1442,675
+SEKRETARKA           1410,20
+PRAKTYKANT           929,00
+
+(6 rows affected)
+
+KIEROWNICY
+-----------
+3
+
+(1 row affected)
+
+ID_Oddz     SUMARYCZNE_PLACE
+----------- ---------------------
+10          9960,70
+20          19501,70
+30          7668,60
+40          4560,00
+
+(4 rows affected)
+
+MAKS_SUM_PLACA
+---------------------
+19501,70
+
+(1 row affected)
+
+SZEF        MINIMALNA
+----------- ---------------------
+120         1570,00
+110         1480,00
+100         1410,20
+130         1120,60
+140         908,00
+
+(5 rows affected)
+
+ID_Oddz     ILOSC_PRAC
+----------- -----------
+20          7
+30          4
+10          2
+40          1
+
+(4 rows affected)
+
+ID_Oddz     ILOSC_PRAC
+----------- -----------
+20          7
+30          4
+10          2
+40          1
+
+(4 rows affected)
+
+ID_Oddz     ILOSC_PRAC
+----------- -----------
+20          7
+30          4
+
+(2 rows affected)
+
+ID
+-----------
+
+(0 rows affected)
+
+STANOWISKO           ŚREDNIA               LICZBA
+-------------------- --------------------- -----------
+BRYGADZISTA          3390,1666             3
+DYREKTOR             8550,50               1
+KIEROWNIK            4530,00               3
+SEKRETARKA           1410,20               1
+
+(4 rows affected)
+
+ID_ODDZ     STANOWISKO           SREDNIA               MAKSYMALNA
+----------- -------------------- --------------------- ---------------------
+20          BRYGADZISTA          3390,00               4935,00
+20          KIEROWNIK            4960,00               4960,00
+30          KIEROWNIK            4070,00               4070,00
+40          KIEROWNIK            4560,00               4560,00
+
+(4 rows affected)
+
+ROK         ILU_PRACOWNIKOW
+----------- ---------------
+1968        2
+1973        1
+1975        1
+1977        2
+1985        2
+1992        2
+1993        3
+1994        1
+
+(8 rows affected)
+
+Ile liter   W ilu nazwiskach
+----------- ----------------
+5           1
+6           1
+8           7
+9           2
+10          2
+11          1
+
+(6 rows affected)
+
+Ile naziwsk z A Ile naziwsk z E
+--------------- ---------------
+9               4
+
+(1 row affected)
+
+
+Completion time: 2023-03-04T14:39:19.5687194+01:00
