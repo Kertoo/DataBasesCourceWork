@@ -62,7 +62,8 @@ SELECT
 	SREDNIA    = ROUND(AVG(Placa_pod + ISNULL(Placa_dod, 0)), 0),
 	MAKSYMALNA = ROUND(MAX(Placa_pod + ISNULL(Placa_dod, 0)), 0)
 FROM Pracownicy
-GROUP BY ID_Oddz, Stanowisko HAVING Stanowisko IN ('KIEROWNIK', 'BRYGADZISTA')
+WHERE Stanowisko IN ('KIEROWNIK', 'BRYGADZISTA')
+GROUP BY ID_Oddz, Stanowisko 
 ORDER BY ID_ODDZ, STANOWISKO
 
 -- Zad 12 --
@@ -83,16 +84,12 @@ ORDER BY [Ile liter] ASC
 
 -- Zad 14 --
 SELECT
-	[Ile naziwsk z A] = SUM(A),
-	[Ile naziwsk z E] = SUM(E)
-FROM 
-(SELECT
-	A = CASE
-	WHEN CHARINDEX('a', Nazwisko, 1) > 0 THEN 1
-	ELSE 0
-END,
-	E = CASE
-	WHEN CHARINDEX('e', Nazwisko, 1) > 0 THEN 1
-	ELSE 0
-END
-FROM Pracownicy) AS TABLICA_AE
+	[Ile naziwsk z A] = SUM(CASE
+		WHEN CHARINDEX('a', Nazwisko, 1) > 0 THEN 1
+		ELSE 0
+	END),
+	[Ile naziwsk z E] = SUM(CASE
+		WHEN CHARINDEX('e', Nazwisko, 1) > 0 THEN 1
+		ELSE 0
+	END)
+FROM Pracownicy

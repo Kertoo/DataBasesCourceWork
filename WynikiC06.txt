@@ -1,0 +1,102 @@
+﻿Nazwisko        Stanowisko
+--------------- --------------------
+BRZEZINSKI      KIEROWNIK
+ZABLOCKI        BRYGADZISTA
+LEWANDOWSKI     BRYGADZISTA
+KOPROWSKI       BRYGADZISTA
+JEZIERSKI       MONTER
+MALINIAK        MONTER
+KOWAL           MONTER
+
+(7 rows affected)
+
+Nazwisko        Stanowisko           Zatrudniony
+--------------- -------------------- -----------
+BRZEZINSKI      KIEROWNIK            1968-07-01
+
+(1 row affected)
+
+Nazwisko        Stanowisko           Zatrudniony
+--------------- -------------------- -----------
+BARTCZAK        KIEROWNIK            1973-05-01
+BOGULA          SEKRETARKA           1985-02-20
+MALINIAK        MONTER               1993-09-01
+URBANIAK        PRAKTYKANT           1994-07-15
+
+(4 rows affected)
+
+ID          Nazwa
+----------- --------------------
+50          GDANSK
+
+(1 row affected)
+
+Nazwisko        Stanowisko           Placa_pod             Średnia
+--------------- -------------------- --------------------- ---------------------
+ZABLOCKI        BRYGADZISTA          4830,00               3355,1666
+BRZEZINSKI      KIEROWNIK            4960,00               4460,00
+KOWAL           MONTER               1480,00               1442,675
+HANTCZAK        MONTER               1480,00               1442,675
+CELINSKI        PRAKTYKANT           950,00                929,00
+
+(5 rows affected)
+
+Nazwisko        Stanowisko           Płaca podstawowa pracownika Szef        Płaca podstawowa szefa
+--------------- -------------------- --------------------------- ----------- ----------------------
+ZABLOCKI        BRYGADZISTA          4830,00                     130         4960,00
+
+(1 row affected)
+
+Nazwisko        Stanowisko
+--------------- --------------------
+BARTCZAK        KIEROWNIK
+MALINOWSKI      KIEROWNIK
+
+(2 rows affected)
+
+ID          Nazwa
+----------- --------------------
+50          GDANSK
+
+(1 row affected)
+
+ID          Nazwa                Płace
+----------- -------------------- ---------------------
+20          WARSZAWA             19501,70
+
+(1 row affected)
+
+Rok         Ilość
+----------- -----------
+1968        2
+1973        1
+1975        1
+1977        2
+1985        2
+1992        2
+1993        3
+1994        1
+
+(8 rows affected)
+
+Rok         Ilość
+----------- -----------
+1968        2
+1973        1
+1975        1
+1977        2
+1985        2
+1992        2
+1993        3
+1994        1
+
+(8 rows affected)
+
+Rok         Ilość
+----------- -----------
+1993        3
+
+(1 row affected)
+
+
+Completion time: 2023-03-20T15:09:49.3315021+01:00
