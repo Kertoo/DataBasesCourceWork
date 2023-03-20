@@ -155,9 +155,21 @@ HAVING COUNT(*) = (SELECT MAX(Iloœæ)
 ) C)
 
 SELECT 
-	Rok, Iloœæ
-FROM (SELECT
-	Rok = YEAR(Zatrudniony),
-	Iloœæ = COUNT(*)
-FROM Pracownicy
-GROUP BY YEAR(Zatrudniony)) A
+	Rok, 
+	Iloœæ
+FROM (
+	SELECT
+		Rok = YEAR(Zatrudniony),
+		Iloœæ = COUNT(*)
+	FROM Pracownicy
+	GROUP BY YEAR(Zatrudniony)
+) a
+WHERE a.Iloœæ = (
+	SELECT MAX(Iloœæ)
+	FROM (
+		SELECT
+			Rok = YEAR(Zatrudniony),
+			Iloœæ = COUNT(*)
+		FROM Pracownicy
+	GROUP BY YEAR(Zatrudniony)) B
+)

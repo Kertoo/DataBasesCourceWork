@@ -98,5 +98,11 @@ Rok         Ilość
 
 (1 row affected)
 
+Rok         Ilość
+----------- -----------
+1993        3
 
-Completion time: 2023-03-20T15:09:49.3315021+01:00
+(1 row affected)
+
+
+Completion time: 2023-03-20T15:16:42.1370545+01:00
