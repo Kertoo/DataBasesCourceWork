@@ -133,13 +133,15 @@ ORDER BY Rok, Iloœæ
 --FROM Pracownicy 
 --ORDER BY Rok
 
-SELECT
-	Rok,
-	Iloœæ = COUNT(*)
-FROM (SELECT Rok = YEAR(Zatrudniony)
-	  FROM Pracownicy) Y
-GROUP BY Rok
-ORDER BY Rok, Iloœæ
+
+-- Na si³e u¿yte podzapytanie
+--SELECT
+--	Rok,
+--	Iloœæ = COUNT(*)
+--FROM (SELECT Rok = YEAR(Zatrudniony)
+--	  FROM Pracownicy) Y
+--GROUP BY Rok
+--ORDER BY Rok, Iloœæ
 
 -- Zad 11 --
 SELECT
@@ -154,22 +156,115 @@ HAVING COUNT(*) = (SELECT MAX(Iloœæ)
 	GROUP BY YEAR(Zatrudniony)
 ) C)
 
+--SELECT 
+--	Rok, 
+--	Iloœæ
+--FROM (
+--	SELECT
+--		Rok = YEAR(Zatrudniony),
+--		Iloœæ = COUNT(*)
+--	FROM Pracownicy
+--	GROUP BY YEAR(Zatrudniony)
+--) a
+--WHERE a.Iloœæ = (
+--	SELECT MAX(Iloœæ)
+--	FROM (
+--		SELECT
+--			Rok = YEAR(Zatrudniony),
+--			Iloœæ = COUNT(*)
+--		FROM Pracownicy
+--	GROUP BY YEAR(Zatrudniony)) B
+--)
+
+-- Zad 12 --
+-- Tutaj mo¿e byæ b³¹d w oryginalnym rozwi¹zaniu bo œrednia dla kierowników po ca³ej pensji
+-- tzn dodatkowa i podstawowa to 4530 a dla barczaka tylko jego p³aca podstawowa (bez uwzglêdnienia
+-- dodatkowej) jest ni¿sza ni¿ œrednia mo¿na to zobaczyæ u¿ywaj¹c:
+-- SELECT * FROM Pracownicy WHERE Nazwisko = 'BARTCZAK'
+
+-- Moje wydaje mi siê poprawne rozwi¹zanie
 SELECT 
-	Rok, 
-	Iloœæ
-FROM (
+	P.Nazwisko,
+	P.Stanowisko,
+	P.Placa_pod,
+	Œrednia = T.mean
+FROM Pracownicy P INNER JOIN (
 	SELECT
-		Rok = YEAR(Zatrudniony),
-		Iloœæ = COUNT(*)
+		mean = AVG(Placa_pod + ISNULL(Placa_dod, 0)),
+		Stanowisko
 	FROM Pracownicy
-	GROUP BY YEAR(Zatrudniony)
-) a
-WHERE a.Iloœæ = (
-	SELECT MAX(Iloœæ)
-	FROM (
-		SELECT
-			Rok = YEAR(Zatrudniony),
-			Iloœæ = COUNT(*)
-		FROM Pracownicy
-	GROUP BY YEAR(Zatrudniony)) B
+	GROUP BY Stanowisko
+) T ON P.Stanowisko = T.Stanowisko
+WHERE T.mean > (P.Placa_pod + ISNULL(P.Placa_dod, 0))
+
+-- Wywa³onie które chyba Pan zapisa³:
+SELECT 
+	P.Nazwisko,
+	P.Stanowisko,
+	P.Placa_pod,
+	Œrednia = T.mean
+FROM Pracownicy P INNER JOIN (
+	SELECT
+		mean = AVG(Placa_pod + ISNULL(Placa_dod, 0)),
+		Stanowisko
+	FROM Pracownicy
+	GROUP BY Stanowisko
+) T ON P.Stanowisko = T.Stanowisko
+WHERE T.mean > P.Placa_pod
+
+-- Zad 13 --
+SELECT
+	P.Nazwisko,
+	[Podw³adni] = T.VR,
+	[Oddzia³] = O.Nazwa
+FROM Pracownicy P
+INNER JOIN (
+	SELECT VR = COUNT(*), Szef
+	FROM Pracownicy
+	GROUP BY Szef
+) T ON P.ID = T.Szef 
+INNER JOIN Oddzialy O ON P.ID_Oddz = O.ID
+WHERE P.Stanowisko = 'KIEROWNIK' AND O.Nazwa = 'WARSZAWA'
+
+-- Zad 14 --
+
+SELECT
+	P.Nazwisko,
+	P.ID_Oddz,
+	Oddzia³    = O.Nazwa,
+	Œrednia    = W.Sr,
+	Maksymalna = W.Mx
+FROM Pracownicy P
+INNER JOIN Oddzialy O ON P.ID_Oddz = O.ID
+INNER JOIN (
+	SELECT
+		ID_Oddz,
+		Sr = AVG(Placa_pod),
+		Mx = MAX(Placa_pod)
+	FROM Pracownicy
+	GROUP BY ID_Oddz
+) W ON W.ID_Oddz = O.ID
+WHERE P.Stanowisko = 'KIEROWNIK'
+ORDER BY W.Sr DESC -- Sortowanie ¿eby tabela by³a dok³adnie taka sama jak w wyniku
+
+-- Zad 15 --
+
+SELECT
+	[ID pracownika] = ID,
+	Nazwisko,
+	Poziom = 1,
+	[Bezpoœredni szef] = Szef
+FROM Pracownicy
+WHERE Szef = (SELECT ID FROM Pracownicy WHERE Nazwisko = 'BRZEZINSKI')
+UNION
+SELECT
+	[ID pracownika] = ID,
+	Nazwisko,
+	Poziom = 2,
+	[Bezpoœredni szef] = Szef
+FROM Pracownicy
+WHERE Szef IN (
+	SELECT ID
+	FROM Pracownicy
+	WHERE Szef = (SELECT ID FROM Pracownicy WHERE Nazwisko = 'BRZEZINSKI')
 )

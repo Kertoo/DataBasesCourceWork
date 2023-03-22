@@ -81,28 +81,62 @@ Rok         Ilość
 
 Rok         Ilość
 ----------- -----------
-1968        2
-1973        1
-1975        1
-1977        2
-1985        2
-1992        2
-1993        3
-1994        1
-
-(8 rows affected)
-
-Rok         Ilość
------------ -----------
 1993        3
 
 (1 row affected)
 
-Rok         Ilość
------------ -----------
-1993        3
+Nazwisko        Stanowisko           Placa_pod             Średnia
+--------------- -------------------- --------------------- ---------------------
+LEWANDOWSKI     BRYGADZISTA          2645,50               3390,1666
+KOPROWSKI       BRYGADZISTA          2590,00               3390,1666
+MALINOWSKI      KIEROWNIK            4070,00               4530,00
+MALINIAK        MONTER               1371,00               1485,30
+KOWAL           MONTER               1480,00               1485,30
+URBANIAK        PRAKTYKANT           908,00                1014,30
+
+(6 rows affected)
+
+Nazwisko        Stanowisko           Placa_pod             Średnia
+--------------- -------------------- --------------------- ---------------------
+KOPROWSKI       BRYGADZISTA          2590,00               3390,1666
+LEWANDOWSKI     BRYGADZISTA          2645,50               3390,1666
+SUMINSKI        DYREKTOR             8130,00               8550,50
+MALINOWSKI      KIEROWNIK            4070,00               4530,00
+BARTCZAK        KIEROWNIK            4350,00               4530,00
+MALINIAK        MONTER               1371,00               1485,30
+JEZIERSKI       MONTER               1439,70               1485,30
+KOWAL           MONTER               1480,00               1485,30
+HANTCZAK        MONTER               1480,00               1485,30
+URBANIAK        PRAKTYKANT           908,00                1014,30
+CELINSKI        PRAKTYKANT           950,00                1014,30
+
+(11 rows affected)
+
+Nazwisko        Podwładni   Oddział
+--------------- ----------- --------------------
+BRZEZINSKI      5           WARSZAWA
 
 (1 row affected)
 
+Nazwisko        ID_Oddz     Oddział              Średnia               Maksymalna
+--------------- ----------- -------------------- --------------------- ---------------------
+BARTCZAK        40          WROCLAW              4350,00               4350,00
+BRZEZINSKI      20          WARSZAWA             2759,4571             4960,00
+MALINOWSKI      30          KRAKOW               1852,00               4070,00
 
-Completion time: 2023-03-20T15:16:42.1370545+01:00
+(3 rows affected)
+
+ID pracownika Nazwisko        Poziom      Bezpośredni szef
+------------- --------------- ----------- ----------------
+140           ZABLOCKI        1           130
+150           LEWANDOWSKI     1           130
+160           KOPROWSKI       1           130
+170           JEZIERSKI       1           130
+210           CELINSKI        1           130
+190           MALINIAK        2           140
+200           URBANIAK        2           140
+
+(7 rows affected)
+
+
+Completion time: 2023-03-22T20:45:26.9088007+01:00
