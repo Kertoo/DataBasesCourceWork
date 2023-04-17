@@ -1,0 +1,71 @@
+===================================================
+KONCEPCJA PROJEKTU BAZY DANYCH
+===================================================
+
+---------------------
+1. Nazwa bazy danych:
+---------------------
+- CyberSklep
+
+----------------------------------------------------
+2. Nazwa tabeli transakcyjnej (dynamicznej, faktów):
+----------------------------------------------------
+- Visits -- rejestrowanie działalności użytkownika na stronie sklepu internetowego
+
+---------------------------------------------------
+3. Nazwy pozostałych tabel (co najmniej czterech):
+----------------------------------------------------
+- Users -- rejestr użytkowników
+- Sales -- rejestr kupionych przedmiotów
+- Products -- rejestr oferowanych przedmiotów w sklepie
+- Predictions -- prognozowane długości pozostania użytkownika na stronie
+
+------------------------------------------------------------
+4. Nazwy pięciu raportów zbudowanych na tabeli transakcyjnej 
+(co najmniej dwa z parametrem):
+------------------------------------------------------------
+- Dni tygodnia od największej do najmniejszej liczby unikalnych wizyt
+- Najczęściej wizytujący użytkownicy (parametr: Użytkownik)
+- Najczęściej kupowane przedmioty (parametr: Nazwa przedmiotu)
+- Kupione przedmioty przez użytkownika oraz wydana ilość pieniędzy (parametr: Użytkownik)
+- Wyliczanie metryk oceniachjących jakość regresji objaśniającej długośc 
+pobytu na stronie takich jak błąd średniokwadratowy, obciążenie, 
+poziom pokrycia przedziału (parametr: Algorytm)
+
+---------------
+Struktra tabel:
+---------------
+
+-- Visits
+ID_Visit, UserName, 
+DateEnter, DateExit (Precyzyjny czas wejścia i wyjścia ze strony),
+ViewCount (Ilość obejrzanych ofert w trakcie wizyty)
+
+Klucz główny: ID_Visit
+Klucze obce: UserName
+
+-- Users
+UserName, Gender, DeliveryAdress, Nationality, Education
+
+Klucz główny: UserName
+
+-- Sales
+ProductName, ID_Visit, QuantityBought, CountryOfOrigin
+
+Klucz główny: (ProductName, ID_Visit)
+Klucze obce: ID_Visit
+
+-- Products
+PruductName, Desc (Krótki opis), Price, 
+StoredQuantity, Category
+
+Klucz główny: ProductName
+
+-- Predictions
+ID_Reg, AlgName (Nazwa algorytmu), ID_Visit, 
+PredictedTime(Prognozowany czas pozostania na stronie), 
+VarNum (Ilość zmiennych objaśniających), 
+LowPred, HighPred (Granice przedziału ufności dla prognozy dolna i górna)
+
+Klucz główny: ID_Reg
+Klucze obce: ID_Visit
