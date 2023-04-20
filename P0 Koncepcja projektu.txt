@@ -5,29 +5,28 @@ KONCEPCJA PROJEKTU BAZY DANYCH
 ---------------------
 1. Nazwa bazy danych:
 ---------------------
-- CyberSklep
+- Sklep internetowy
 
 ----------------------------------------------------
 2. Nazwa tabeli transakcyjnej (dynamicznej, faktów):
 ----------------------------------------------------
-- Visits -- rejestrowanie działalności użytkownika na stronie sklepu internetowego
+- visits -- rejestrowanie działalności użytkownika na stronie sklepu internetowego
 
----------------------------------------------------
-3. Nazwy pozostałych tabel (co najmniej czterech):
-----------------------------------------------------
-- Users -- rejestr użytkowników
-- Sales -- rejestr kupionych przedmiotów
-- Products -- rejestr oferowanych przedmiotów w sklepie
-- Predictions -- prognozowane długości pozostania użytkownika na stronie
+---------------------------
+3. Nazwy pozostałych tabel:
+---------------------------
+- users -- rejestr użytkowników
+- sales -- rejestr kupionych przedmiotów
+- products -- rejestr oferowanych przedmiotów w sklepie
+- predictions -- prognozowane długości pozostania użytkownika na stronie
 
 ------------------------------------------------------------
-4. Nazwy pięciu raportów zbudowanych na tabeli transakcyjnej 
-(co najmniej dwa z parametrem):
+4. Nazwy pięciu raportów zbudowanych na tabeli transakcyjnej:
 ------------------------------------------------------------
 - Dni tygodnia od największej do najmniejszej liczby unikalnych wizyt
 - Najczęściej wizytujący użytkownicy (parametr: Użytkownik)
-- Najczęściej kupowane przedmioty (parametr: Nazwa przedmiotu)
-- Kupione przedmioty przez użytkownika oraz wydana ilość pieniędzy (parametr: Użytkownik)
+- Najczęściej kupowane przedmioty
+- Kupione przedmioty przez użytkownika oraz wydana ilość pieniędzy w trakcie wizyty (parametr: Wizyta)
 - Wyliczanie metryk oceniachjących jakość regresji objaśniającej długośc 
 pobytu na stronie takich jak błąd średniokwadratowy, obciążenie, 
 poziom pokrycia przedziału (parametr: Algorytm)
@@ -36,36 +35,36 @@ poziom pokrycia przedziału (parametr: Algorytm)
 Struktra tabel:
 ---------------
 
--- Visits
-ID_Visit, UserName, 
-DateEnter, DateExit (Precyzyjny czas wejścia i wyjścia ze strony),
-ViewCount (Ilość obejrzanych ofert w trakcie wizyty)
+-- visits
+id_visit, user_name, 
+date_enter, date_xxit (Precyzyjny czas wejścia i wyjścia ze strony),
+view_count (Ilość obejrzanych ofert w trakcie wizyty)
 
-Klucz główny: ID_Visit
-Klucze obce: UserName
+Klucz główny: id_visit
+Klucze obce:  user_name
 
--- Users
-UserName, Gender, DeliveryAdress, Nationality, Education
+-- users
+user_name, gender, delivery_adress, nationality, education
 
-Klucz główny: UserName
+Klucz główny: user_name
 
--- Sales
-ProductName, ID_Visit, QuantityBought, CountryOfOrigin
+-- sales
+ProductName, id_visit, quantity_bought, country_of_origin
 
-Klucz główny: (ProductName, ID_Visit)
-Klucze obce: ID_Visit
+Klucz główny: (product_name, id_visit)
+Klucze obce:  id_visit
 
--- Products
-PruductName, Desc (Krótki opis), Price, 
-StoredQuantity, Category
+-- products
+product_name, description (Krótki opis), price, 
+stored_quantity, category
 
-Klucz główny: ProductName
+Klucz główny: product_name
 
--- Predictions
-ID_Reg, AlgName (Nazwa algorytmu), ID_Visit, 
-PredictedTime(Prognozowany czas pozostania na stronie), 
-VarNum (Ilość zmiennych objaśniających), 
-LowPred, HighPred (Granice przedziału ufności dla prognozy dolna i górna)
+-- predictions
+id_reg, alg_name (Nazwa algorytmu), id_visit, 
+predicted_time (Prognozowany czas pozostania na stronie), 
+var_num (Ilość zmiennych objaśniających), 
+low_pred, high_pred (Granice przedziału ufności dla prognozy, dolna i górna)
 
-Klucz główny: ID_Reg
-Klucze obce: ID_Visit
+Klucz główny: id_reg
+Klucze obce:  id_visit
