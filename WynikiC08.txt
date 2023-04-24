@@ -1,0 +1,300 @@
+﻿
+(14 rows affected)
+ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+100         SUMINSKI        DYREKTOR             NULL        1968-01-01  8130,00               420,50                10
+110         BARTCZAK        KIEROWNIK            100         1973-05-01  4350,00               210,00                40
+120         MALINOWSKI      KIEROWNIK            100         1977-09-01  4070,00               NULL                  30
+130         BRZEZINSKI      KIEROWNIK            100         1968-07-01  4960,00               NULL                  20
+140         ZABLOCKI        BRYGADZISTA          130         1975-09-15  4830,00               105,00                20
+150         LEWANDOWSKI     BRYGADZISTA          130         1977-09-01  2645,50               NULL                  20
+160         KOPROWSKI       BRYGADZISTA          130         1985-03-01  2590,00               NULL                  20
+170         JEZIERSKI       MONTER               130         1992-10-01  1439,70               80,50                 20
+180         BOGULA          SEKRETARKA           100         1985-02-20  1410,20               NULL                  10
+190         MALINIAK        MONTER               140         1993-09-01  1371,00               NULL                  20
+200         URBANIAK        PRAKTYKANT           140         1994-07-15  908,00                NULL                  30
+210         CELINSKI        PRAKTYKANT           130         1993-10-15  950,00                170,60                30
+220         KOWAL           MONTER               110         1993-01-10  1480,00               NULL                  20
+230         HANTCZAK        MONTER               120         1992-09-01  1480,00               90,00                 30
+
+(14 rows affected)
+
+(1 row affected)
+
+ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+170         JEZIERSKI       MONTER               130         1992-10-01  1600,00               80,50                 20
+
+(1 row affected)
+
+ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+170         JEZIERSKI       MONTER               130         1992-10-01  1439,70               80,50                 20
+
+(1 row affected)
+
+(2 rows affected)
+
+ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+140         ZABLOCKI        BRYGADZISTA          130         1975-10-15  4830,00               105,00                10
+160         KOPROWSKI       BRYGADZISTA          130         1985-04-01  2590,00               NULL                  10
+
+(2 rows affected)
+
+ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+140         ZABLOCKI        BRYGADZISTA          130         1975-09-15  4830,00               105,00                20
+160         KOPROWSKI       BRYGADZISTA          130         1985-03-01  2590,00               NULL                  20
+
+(2 rows affected)
+
+(2 rows affected)
+
+ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+210         CELINSKI        PRAKTYKANT           130         1993-10-15  950,00                170,60                30
+220         KOWAL           MONTER               110         1993-01-10  1480,00               NULL                  20
+230         HANTCZAK        MONTER               120         1992-09-01  1480,00               90,00                 30
+240         ADAMIAK         MONTER               100         2023-04-24  3141,5927             57,70                 40
+250         ZIELINSKI       PRAKTYKANT           240         2023-04-24  2718,2818             NULL                  20
+
+(5 rows affected)
+
+ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+210         CELINSKI        PRAKTYKANT           130         1993-10-15  950,00                170,60                30
+220         KOWAL           MONTER               110         1993-01-10  1480,00               NULL                  20
+230         HANTCZAK        MONTER               120         1992-09-01  1480,00               90,00                 30
+
+(3 rows affected)
+
+(16 rows affected)
+
+Placa_pod
+---------------------
+8554,005
+5254,005
+5206,2464
+4724,5796
+4255,20
+3516,1723
+3014,005
+2964,5282
+2891,7464
+1846,2464
+1834,205
+1726,2464
+1665,20
+1617,2464
+1135,20
+1093,20
+
+(16 rows affected)
+
+Placa_pod             Średnia na 10
+--------------------- ---------------------------------------
+8130,00               477.01000
+4960,00               275.94571
+4830,00               275.94571
+4350,00               435.00000
+4070,00               185.20000
+2645,50               275.94571
+2590,00               275.94571
+1480,00               275.94571
+1480,00               185.20000
+1439,70               275.94571
+1410,20               477.01000
+1371,00               275.94571
+950,00                185.20000
+908,00                185.20000
+
+(14 rows affected)
+
+(6 rows affected)
+
+ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+130         BRZEZINSKI      KIEROWNIK            100         1968-07-01  5206,2464             2828,2405             20
+150         LEWANDOWSKI     BRYGADZISTA          130         1977-09-01  2891,7464             2828,2405             20
+170         JEZIERSKI       MONTER               130         1992-10-01  1846,2464             2828,2405             20
+190         MALINIAK        MONTER               140         1993-09-01  1617,2464             2828,2405             20
+220         KOWAL           MONTER               110         1993-01-10  1726,2464             2828,2405             20
+250         ZIELINSKI       PRAKTYKANT           240         2023-04-24  2964,5282             2828,2405             20
+
+(6 rows affected)
+
+ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+130         BRZEZINSKI      KIEROWNIK            100         1968-07-01  4960,00               NULL                  20
+140         ZABLOCKI        BRYGADZISTA          130         1975-09-15  4830,00               105,00                20
+150         LEWANDOWSKI     BRYGADZISTA          130         1977-09-01  2645,50               NULL                  20
+160         KOPROWSKI       BRYGADZISTA          130         1985-03-01  2590,00               NULL                  20
+170         JEZIERSKI       MONTER               130         1992-10-01  1439,70               80,50                 20
+190         MALINIAK        MONTER               140         1993-09-01  1371,00               NULL                  20
+220         KOWAL           MONTER               110         1993-01-10  1480,00               NULL                  20
+
+(7 rows affected)
+
+Placa_pod
+---------------------
+8554,005
+4724,5796
+4255,20
+5206,2464
+5254,005
+2891,7464
+3014,005
+1846,2464
+1834,205
+1617,2464
+1093,20
+1135,20
+1726,2464
+1665,20
+3516,1723
+2964,5282
+
+(16 rows affected)
+
+(16 rows affected)
+
+Placa_pod
+---------------------
+8554,005
+4724,5796
+4255,20
+5206,2464
+5254,005
+3206,127
+3206,127
+3206,127
+3206,127
+3206,127
+3206,127
+3206,127
+3206,127
+3206,127
+3516,1723
+3206,127
+
+(16 rows affected)
+
+Placa_pod             LATA
+--------------------- -----------
+8554,005              55
+4724,5796             50
+4255,20               46
+5206,2464             55
+5254,005              48
+3206,127              46
+3206,127              38
+3206,127              31
+3206,127              38
+3206,127              30
+3206,127              29
+3206,127              30
+3206,127              30
+3206,127              31
+3516,1723             0
+3206,127              0
+
+(16 rows affected)
+
+(14 rows affected)
+
+Placa_pod             LATA
+--------------------- -----------
+9837,1058             55
+5433,2665             50
+4893,48               46
+5987,1834             55
+6042,1058             48
+3687,0461             46
+3687,0461             38
+3687,0461             31
+3687,0461             38
+3687,0461             30
+3687,0461             29
+3687,0461             30
+3687,0461             30
+3687,0461             31
+3516,1723             0
+3206,127              0
+
+(16 rows affected)
+
+ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+100         SUMINSKI        DYREKTOR             NULL        1968-01-01  9837,1058             420,50                10
+110         BARTCZAK        KIEROWNIK            100         1973-05-01  5433,2665             210,00                40
+120         MALINOWSKI      KIEROWNIK            100         1977-09-01  4893,48               NULL                  30
+130         BRZEZINSKI      KIEROWNIK            100         1968-07-01  5987,1834             2828,2405             20
+140         ZABLOCKI        BRYGADZISTA          130         1975-10-15  6042,1058             105,00                10
+150         LEWANDOWSKI     BRYGADZISTA          130         1977-09-01  3687,0461             2828,2405             20
+160         KOPROWSKI       BRYGADZISTA          130         1985-04-01  3687,0461             NULL                  10
+170         JEZIERSKI       MONTER               130         1992-10-01  3687,0461             2828,2405             20
+180         BOGULA          SEKRETARKA           100         1985-02-20  3687,0461             NULL                  10
+190         MALINIAK        MONTER               140         1993-09-01  3687,0461             2828,2405             20
+200         URBANIAK        PRAKTYKANT           140         1994-07-15  3687,0461             NULL                  30
+210         CELINSKI        PRAKTYKANT           130         1993-10-15  3687,0461             170,60                30
+220         KOWAL           MONTER               110         1993-01-10  3687,0461             2828,2405             20
+230         HANTCZAK        MONTER               120         1992-09-01  3687,0461             90,00                 30
+240         ADAMIAK         MONTER               100         2023-04-24  3516,1723             57,70                 40
+250         ZIELINSKI       PRAKTYKANT           240         2023-04-24  3206,127              2828,2405             20
+
+(16 rows affected)
+
+(4 rows affected)
+
+ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+110         BARTCZAK        KIEROWNIK            100         1973-05-01  5433,2665             210,00                40
+120         MALINOWSKI      KIEROWNIK            100         1977-09-01  4893,48               NULL                  30
+130         BRZEZINSKI      KIEROWNIK            100         1968-07-01  5987,1834             2828,2405             20
+150         LEWANDOWSKI     BRYGADZISTA          130         1977-09-01  3687,0461             2828,2405             20
+170         JEZIERSKI       MONTER               130         1992-10-01  3687,0461             2828,2405             20
+190         MALINIAK        MONTER               140         1993-09-01  3687,0461             2828,2405             20
+200         URBANIAK        PRAKTYKANT           140         1994-07-15  3687,0461             NULL                  30
+210         CELINSKI        PRAKTYKANT           130         1993-10-15  3687,0461             170,60                30
+220         KOWAL           MONTER               110         1993-01-10  3687,0461             2828,2405             20
+230         HANTCZAK        MONTER               120         1992-09-01  3687,0461             90,00                 30
+240         ADAMIAK         MONTER               100         2023-04-24  3516,1723             57,70                 40
+250         ZIELINSKI       PRAKTYKANT           240         2023-04-24  3206,127              2828,2405             20
+
+(12 rows affected)
+
+ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+110         BARTCZAK        KIEROWNIK            100         1973-05-01  5433,2665             210,00                40
+120         MALINOWSKI      KIEROWNIK            100         1977-09-01  4893,48               NULL                  30
+130         BRZEZINSKI      KIEROWNIK            100         1968-07-01  5987,1834             2828,2405             20
+150         LEWANDOWSKI     BRYGADZISTA          130         1977-09-01  3687,0461             2828,2405             20
+170         JEZIERSKI       MONTER               130         1992-10-01  3687,0461             2828,2405             20
+190         MALINIAK        MONTER               140         1993-09-01  3687,0461             2828,2405             20
+200         URBANIAK        PRAKTYKANT           140         1994-07-15  3687,0461             NULL                  30
+210         CELINSKI        PRAKTYKANT           130         1993-10-15  3687,0461             170,60                30
+220         KOWAL           MONTER               110         1993-01-10  3687,0461             2828,2405             20
+230         HANTCZAK        MONTER               120         1992-09-01  3687,0461             90,00                 30
+240         ADAMIAK         MONTER               100         2023-04-24  3516,1723             57,70                 40
+250         ZIELINSKI       PRAKTYKANT           240         2023-04-24  3206,127              2828,2405             20
+
+(12 rows affected)
+
+(4 rows affected)
+
+ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+110         BARTCZAK        KIEROWNIK            100         1973-05-01  5433,2665             210,00                40
+120         MALINOWSKI      KIEROWNIK            100         1977-09-01  4893,48               NULL                  30
+130         BRZEZINSKI      KIEROWNIK            100         1968-07-01  5987,1834             2828,2405             20
+190         MALINIAK        MONTER               140         1993-09-01  3687,0461             2828,2405             20
+200         URBANIAK        PRAKTYKANT           140         1994-07-15  3687,0461             NULL                  30
+220         KOWAL           MONTER               110         1993-01-10  3687,0461             2828,2405             20
+240         ADAMIAK         MONTER               100         2023-04-24  3516,1723             57,70                 40
+250         ZIELINSKI       PRAKTYKANT           240         2023-04-24  3206,127              2828,2405             20
+
+(8 rows affected)
+
+
+Completion time: 2023-04-24T14:23:27.8276217+02:00
