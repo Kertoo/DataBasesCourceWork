@@ -1,0 +1,183 @@
+﻿
+(13 rows affected)
+ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+100         SUMINSKI        DYREKTOR             NULL        1968-01-01  8130,00               420,50                10
+110         BARTCZAK        KIEROWNIK            100         1973-05-01  4350,00               210,00                40
+120         MALINOWSKI      KIEROWNIK            100         1977-09-01  4070,00               NULL                  30
+130         BRZEZINSKI      KIEROWNIK            100         1968-07-01  4960,00               NULL                  20
+140         ZABLOCKI        BRYGADZISTA          130         1975-09-15  4830,00               105,00                20
+150         LEWANDOWSKI     BRYGADZISTA          130         1977-09-01  2645,50               NULL                  20
+160         KOPROWSKI       BRYGADZISTA          130         1985-03-01  2590,00               NULL                  20
+170         JEZIERSKI       MONTER               130         1992-10-01  1439,70               80,50                 20
+190         MALINIAK        MONTER               140         1993-09-01  1371,00               NULL                  20
+200         URBANIAK        PRAKTYKANT           140         1994-07-15  908,00                NULL                  30
+210         CELINSKI        PRAKTYKANT           130         1993-10-15  950,00                170,60                30
+220         KOWAL           MONTER               110         1993-01-10  3800,00               NULL                  20
+230         HANTCZAK        MONTER               120         1992-09-01  1480,00               90,00                 30
+
+(13 rows affected)
+
+Placa_pod             ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+--------------------- ----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+8130,00               100         SUMINSKI        DYREKTOR             NULL        1968-01-01  8130,00               420,50                10
+4350,00               110         BARTCZAK        KIEROWNIK            100         1973-05-01  4350,00               210,00                40
+4070,00               120         MALINOWSKI      KIEROWNIK            100         1977-09-01  4070,00               NULL                  30
+4960,00               130         BRZEZINSKI      KIEROWNIK            100         1968-07-01  4960,00               NULL                  20
+4830,00               140         ZABLOCKI        BRYGADZISTA          130         1975-09-15  4830,00               105,00                20
+
+(5 rows affected)
+
+(1 row affected)
+
+Placa_pod             ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+--------------------- ----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+12195,00              100         SUMINSKI        DYREKTOR             NULL        1968-01-01  12195,00              420,50                10
+4350,00               110         BARTCZAK        KIEROWNIK            100         1973-05-01  4350,00               210,00                40
+4070,00               120         MALINOWSKI      KIEROWNIK            100         1977-09-01  4070,00               NULL                  30
+4960,00               130         BRZEZINSKI      KIEROWNIK            100         1968-07-01  4960,00               NULL                  20
+4830,00               140         ZABLOCKI        BRYGADZISTA          130         1975-09-15  4830,00               105,00                20
+
+(5 rows affected)
+
+Placa_pod             ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+--------------------- ----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+8130,00               100         SUMINSKI        DYREKTOR             NULL        1968-01-01  8130,00               420,50                10
+4350,00               110         BARTCZAK        KIEROWNIK            100         1973-05-01  4350,00               210,00                40
+4070,00               120         MALINOWSKI      KIEROWNIK            100         1977-09-01  4070,00               NULL                  30
+4960,00               130         BRZEZINSKI      KIEROWNIK            100         1968-07-01  4960,00               NULL                  20
+4830,00               140         ZABLOCKI        BRYGADZISTA          130         1975-09-15  4830,00               105,00                20
+
+(5 rows affected)
+
+ErrorNumber ErrorMessage
+----------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+50000       Błędny numer oddziału: 97
+
+(1 row affected)
+
+Liczba pracowników w oddziale: 10 wynosi: 1
+ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+110         BARTCZAK        KIEROWNIK            100         1973-05-01  4350,00               210,00                40
+130         BRZEZINSKI      KIEROWNIK            100         1968-07-01  4960,00               NULL                  20
+
+(2 rows affected)
+
+ErrorNumber ErrorMessage
+----------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+50000       Pracownik o nazwisku BARTCZAK już istnieje
+
+(1 row affected)
+
+ErrorNumber ErrorMessage
+----------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+50000       Błędne nazwisko szefa: NOWAK
+
+(1 row affected)
+
+ErrorNumber ErrorMessage
+----------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+50000       Błędny numer oddziału: 99
+
+(1 row affected)
+
+(1 row affected)
+
+ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+110         BARTCZAK        KIEROWNIK            100         1973-05-01  4350,00               210,00                40
+130         BRZEZINSKI      KIEROWNIK            100         1968-07-01  4960,00               NULL                  20
+240         BANAS           MONTER               130         2023-05-15  1200,00               NULL                  10
+
+(3 rows affected)
+
+Netto                  Brutto
+---------------------- -----------
+84                     120
+
+(1 row affected)
+
+1!          2!          3!          4!          5!          6!          0!
+----------- ----------- ----------- ----------- ----------- ----------- -----------
+1           2           6           24          120         720         1
+
+(1 row affected)
+
+Nazwisko        Zatrudniony Staż
+--------------- ----------- -----------
+SUMINSKI        1968-01-01  55
+BARTCZAK        1973-05-01  50
+MALINOWSKI      1977-09-01  46
+BRZEZINSKI      1968-07-01  55
+ZABLOCKI        1975-09-15  48
+LEWANDOWSKI     1977-09-01  46
+KOPROWSKI       1985-03-01  38
+JEZIERSKI       1992-10-01  31
+MALINIAK        1993-09-01  30
+URBANIAK        1994-07-15  29
+CELINSKI        1993-10-15  30
+KOWAL           1993-01-10  30
+HANTCZAK        1992-09-01  31
+
+(13 rows affected)
+
+ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+100         SUMINSKI        DYREKTOR             NULL        1968-01-01  8130,00               420,50                10
+140         ZABLOCKI        BRYGADZISTA          130         1975-09-15  4830,00               105,00                20
+150         LEWANDOWSKI     BRYGADZISTA          130         1977-09-01  2645,50               NULL                  20
+160         KOPROWSKI       BRYGADZISTA          130         1985-03-01  2590,00               NULL                  20
+170         JEZIERSKI       MONTER               130         1992-10-01  1439,70               80,50                 20
+210         CELINSKI        PRAKTYKANT           130         1993-10-15  950,00                170,60                30
+220         KOWAL           MONTER               110         1993-01-10  3800,00               NULL                  20
+230         HANTCZAK        MONTER               120         1992-09-01  1480,00               90,00                 30
+
+(8 rows affected)
+
+(6 rows affected)
+
+(2 rows affected)
+
+ID          Nazwisko        Stanowisko           Szef        Zatrudniony Placa_pod             Placa_dod             ID_Oddz
+----------- --------------- -------------------- ----------- ----------- --------------------- --------------------- -----------
+100         SUMINSKI        DYREKTOR             NULL        1968-01-01  8130,00               420,50                10
+140         ZABLOCKI        BRYGADZISTA          NULL        1975-09-15  4830,00               105,00                20
+150         LEWANDOWSKI     BRYGADZISTA          NULL        1977-09-01  2645,50               NULL                  20
+160         KOPROWSKI       BRYGADZISTA          NULL        1985-03-01  2590,00               NULL                  20
+170         JEZIERSKI       MONTER               NULL        1992-10-01  1439,70               80,50                 20
+210         CELINSKI        PRAKTYKANT           NULL        1993-10-15  950,00                170,60                30
+220         KOWAL           MONTER               110         1993-01-10  3800,00               NULL                  20
+230         HANTCZAK        MONTER               NULL        1992-09-01  1480,00               90,00                 30
+
+(8 rows affected)
+
+ID_his      Typ  ID          Nazwisko                       Placa_pod              Stanowisko           ID_Oddz              Sysdate                 User
+----------- ---- ----------- ------------------------------ ---------------------- -------------------- -------------------- ----------------------- ------------------------------
+
+(0 rows affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(1 row affected)
+
+(1 row affected)
+
+ID_his      Typ  ID          Nazwisko                       Placa_pod              Stanowisko           ID_Oddz              Sysdate                 User
+----------- ---- ----------- ------------------------------ ---------------------- -------------------- -------------------- ----------------------- ------------------------------
+1           S    220         KOWAL                          3800                   MONTER               20                   2023-05-15 14:48:45.197 LABS\s456516
+2           N    220         KOWAL                          4200                   MONTER               20                   2023-05-15 14:48:45.197 LABS\s456516
+3           U    100         SUMINSKI                       8130                   DYREKTOR             10                   2023-05-15 14:48:45.203 LABS\s456516
+
+(3 rows affected)
+
+
+Completion time: 2023-05-15T14:48:45.2052911+02:00
