@@ -37,7 +37,7 @@ Struktra tabel:
 
 -- visits
 id_visit, user_name, 
-date_enter, date_xxit (Precyzyjny czas wejścia i wyjścia ze strony),
+date_enter, date_exit (Precyzyjny czas wejścia i wyjścia ze strony),
 view_count (Ilość obejrzanych ofert w trakcie wizyty)
 
 Klucz główny: id_visit

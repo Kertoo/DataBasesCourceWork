@@ -1,0 +1,17441 @@
+﻿
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(1 row affected)
+Weekdays from highest to lowest ammount of unique visits:
+day_name                       unique_visits
+------------------------------ -------------
+Saturday                       835
+Friday                         781
+Wednesday                      770
+Sunday                         751
+Thursday                       708
+Monday                         693
+Tuesday                        663
+
+(7 rows affected)
+
+Items from most to least frequently bought:
+product_name         sales
+-------------------- -----------
+Soap                 124
+Computer keyboard    114
+Fidget spinner       99
+Tortilla             62
+Frying pan           45
+Crips                32
+
+(6 rows affected)
+
+Most frequent visitors from 15th of may to today 2023:
+user                 visits
+-------------------- -----------
+Mirella Durtschi     83
+Marisa Hofstetter    80
+Lotta Hautzig        74
+Photios Mastrotis    74
+Xene Franga          69
+Nela Itschner        68
+Lara Duque           66
+Eleftheria Condeli   65
+Nolan Schawalder     65
+Liam Krauser         64
+Grethe Due           63
+Borja Cutrina        63
+Christian Chistau    63
+Torben Johannsen     63
+Albino Hernandes     62
+Gustav Messerschmidt 62
+Frobertus            61
+Tassilo              61
+Thorvald Lauritzen   60
+Soren Jensen         60
+Fernando Valdovinos  60
+Elisabeth Wulff      58
+Hannelore Ungar      58
+Lidia Almirall       58
+Yanni Apostolilis    58
+Wilberga             57
+Cristiana Tavares    55
+Sam Kahler           54
+Laila Schweizer      53
+Giannis Panilis      52
+
+(30 rows affected)
+
+Most frequent visitors from 15th of may to 18th of may 2023:
+user                 visits
+-------------------- -----------
+Gustav Messerschmidt 14
+Eleftheria Condeli   12
+Frobertus            12
+Nela Itschner        12
+Liam Krauser         11
+Lara Duque           10
+Elisabeth Wulff      10
+Soren Jensen         10
+Photios Mastrotis    9
+Marisa Hofstetter    9
+Thorvald Lauritzen   8
+Xene Franga          8
+Yanni Apostolilis    8
+Albino Hernandes     8
+Christian Chistau    8
+Lotta Hautzig        8
+Lidia Almirall       7
+Fernando Valdovinos  7
+Mirella Durtschi     7
+Nolan Schawalder     6
+Tassilo              6
+Torben Johannsen     6
+Laila Schweizer      6
+Grethe Due           5
+Cristiana Tavares    5
+Borja Cutrina        5
+Hannelore Ungar      4
+Wilberga             4
+Sam Kahler           4
+Giannis Panilis      3
+
+(30 rows affected)
+
+Visit of Christian Chistau on 12th of may 2023:
+items bought moeny spent
+------------ ---------------------
+2            600,00
+
+(1 row affected)
+
+Visit of Hannelore Ungar on 11th of may 2023:
+items bought moeny spent
+------------ ---------------------
+2            44,00
+
+(1 row affected)
+
+Visit of Lidia Almirall on 30th of may 2023:
+items bought moeny spent
+------------ ---------------------
+13           3900,00
+
+(1 row affected)
+
+Regression metrics for ordinary least squares:
+bias                                    mean squared error                      root mean squared error mean absolute error                     confidence interval coverage
+--------------------------------------- --------------------------------------- ----------------------- --------------------------------------- ---------------------------------------
+1867.907156                             10157297.473887                         3187,05153298264        2388.058027                             0.114119
+
+(1 row affected)
+
+Regression metrics for vector generalized additive regression:
+bias                                    mean squared error                      root mean squared error mean absolute error                     confidence interval coverage
+--------------------------------------- --------------------------------------- ----------------------- --------------------------------------- ---------------------------------------
+1805.131725                             9450517.781076                          3074,16944573262        2324.912801                             0.139146
+
+(1 row affected)
+
+Regression metrics for ordinary least squares with lasso penalty:
+bias                                    mean squared error                      root mean squared error mean absolute error                     confidence interval coverage
+--------------------------------------- --------------------------------------- ----------------------- --------------------------------------- ---------------------------------------
+1665.113636                             9060010.795454                          3009,98518193263        2333.820247                             0.115702
+
+(1 row affected)
+
+Regression metrics for categorical gradient boosting regression:
+bias                                    mean squared error                      root mean squared error mean absolute error                     confidence interval coverage
+--------------------------------------- --------------------------------------- ----------------------- --------------------------------------- ---------------------------------------
+1630.449781                             9317731.414847                          3052,49593199516        2257.458515                             0.131004
+
+(1 row affected)
+
+Regression metrics for neural network regression:
+bias                                    mean squared error                      root mean squared error mean absolute error                     confidence interval coverage
+--------------------------------------- --------------------------------------- ----------------------- --------------------------------------- ---------------------------------------
+1767.072727                             9758227.056565                          3123,81610479314        2368.434343                             0.088888
+
+(1 row affected)
+
+Regression metrics for extreme gradient boosting regresion:
+bias                                    mean squared error                      root mean squared error mean absolute error                     confidence interval coverage
+--------------------------------------- --------------------------------------- ----------------------- --------------------------------------- ---------------------------------------
+1908.245579                             10184712.280943                         3191,34960180532        2453.271119                             0.110019
+
+(1 row affected)
+
+Regression metrics for support vector machine regression:
+bias                                    mean squared error                      root mean squared error mean absolute error                     confidence interval coverage
+--------------------------------------- --------------------------------------- ----------------------- --------------------------------------- ---------------------------------------
+1683.104417                             8831676.128514                          2971,8136093157         2244.353413                             0.122489
+
+(1 row affected)
+
+
+Completion time: 2023-06-07T11:13:19.7799407+02:00
