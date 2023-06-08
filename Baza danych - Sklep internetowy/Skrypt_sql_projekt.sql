@@ -13,14 +13,14 @@ GO
 -- Usuwanie tabel
 -- -------------------------------
 BEGIN
-IF OBJECT_ID('products','U') IS NOT NULL 
-DROP TABLE products
-
 IF OBJECT_ID('predictions','U') IS NOT NULL 
 DROP TABLE predictions
 
 IF OBJECT_ID('sales','U') IS NOT NULL 
 DROP TABLE sales
+
+IF OBJECT_ID('products','U') IS NOT NULL 
+DROP TABLE products
 
 IF OBJECT_ID('visits','U') IS NOT NULL 
 DROP TABLE visits
@@ -36,11 +36,12 @@ GO
 -- users
 IF OBJECT_ID('users','U') IS NULL 
 CREATE TABLE users(				
-	user_name	    VARCHAR(20) NOT NULL,
-	gender		    VARCHAR(2)  NOT NULL,
+	user_name	    VARCHAR(20)  NOT NULL,
+	gender		    VARCHAR(2)   NOT NULL,
 	delivery_adress	VARCHAR(100) NOT NULL,
-	nationality     VARCHAR(3)  NOT NULL,
-	education       VARCHAR(10) NOT NULL,
+	nationality     VARCHAR(3)   NOT NULL,
+	education       VARCHAR(10)  NOT NULL,
+
 	PRIMARY KEY (user_name),
 	UNIQUE(user_name)
 )
@@ -49,55 +50,61 @@ GO
 -- visits
 IF OBJECT_ID('visits','U') IS NULL 
 CREATE TABLE visits(
-	id_visit	 INT IDENTITY(1, 1),
-	user_name	 VARCHAR(20) NOT NULL,
-	date_enter	 DATETIME NOT NULL,
-	date_exit	 DATETIME,
-	view_count   INT NOT NULL,
+	id_visit	 INT IDENTITY(1, 1)			,
+	user_name	 VARCHAR(20)		NOT NULL,
+	date_enter	 DATETIME			NOT NULL,
+	date_exit	 DATETIME					,
+	view_count   INT				NOT NULL,
+
 	PRIMARY KEY (id_visit),
 	FOREIGN KEY (user_name) REFERENCES users(user_name)
 )
 GO
 
+
+-- products
+IF OBJECT_ID('products','U') IS NULL 
+CREATE TABLE products(
+	product_name	VARCHAR(20)			,
+	price			MONEY		NOT NULL,
+	category		VARCHAR(4)			,
+	stored_quantity INT			NOT NULL,
+	description	    VARCHAR(400)		,
+
+	PRIMARY KEY (product_name)
+)
+GO
+
+
 -- sales
 IF OBJECT_ID('sales','U') IS NULL 
 CREATE TABLE sales(
 	product_name	  VARCHAR(20) NOT NULL,
-	country_of_origin VARCHAR(3) NOT NULL,
-	quantity_bought   INT NOT NULL,
-	id_visit		  INT NOT NULL,
+	country_of_origin VARCHAR(3)  NOT NULL,
+	quantity_bought   INT		  NOT NULL,
+	id_visit		  INT		  NOT NULL,
+
 	PRIMARY KEY (product_name, id_visit),
-	FOREIGN KEY (id_visit) REFERENCES visits(id_visit)
+	FOREIGN KEY (id_visit)     REFERENCES visits(id_visit),
+	FOREIGN KEY (product_name) REFERENCES products(product_name)
 )
 GO
 
 -- predictions
 IF OBJECT_ID('predictions','U') IS NULL 
 CREATE TABLE predictions(
-	id_reg	       INT IDENTITY(1, 1),
-	alg_name	   VARCHAR(8),
-	id_visit       INT,
-	predicted_time TIME,
-	low_pred	   TIME, 
-	high_pred	   TIME,
-	var_num	       SMALLINT,
+	id_reg	       INT IDENTITY(1, 1)	,
+	alg_name	   VARCHAR(8)	NOT NULL,
+	id_visit       INT			NOT NULL,
+	predicted_time TIME			NOT NULL,
+	low_pred	   TIME			NOT NULL,
+	high_pred	   TIME			NOT NULL,
+	var_num	       SMALLINT				,
+
 	PRIMARY KEY (id_reg),
 	FOREIGN KEY (id_visit) REFERENCES visits(id_visit)
 )
 GO
-
--- products
-IF OBJECT_ID('products','U') IS NULL 
-CREATE TABLE products(
-	product_name	VARCHAR(20),
-	price			MONEY,
-	category		VARCHAR(4),
-	stored_quantity INT,
-	description	    VARCHAR(400),
-	PRIMARY KEY (product_name)
-)
-GO
-
 -- ---------------------------------
 -- Wstawianie wartoœci do tabel
 -- ---------------------------------
