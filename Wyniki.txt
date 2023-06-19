@@ -17298,36 +17298,36 @@ Crips                32
 Most frequent visitors from 15th of may to today 2023:
 user                 visits
 -------------------- -----------
-Mirella Durtschi     86
-Marisa Hofstetter    84
-Lotta Hautzig        77
-Photios Mastrotis    76
-Xene Franga          71
-Nela Itschner        71
-Eleftheria Condeli   69
-Borja Cutrina        68
-Lara Duque           68
-Soren Jensen         68
-Nolan Schawalder     67
-Christian Chistau    66
-Grethe Due           66
-Gustav Messerschmidt 64
-Albino Hernandes     64
-Liam Krauser         64
-Torben Johannsen     64
-Thorvald Lauritzen   63
-Lidia Almirall       63
-Fernando Valdovinos  63
-Frobertus            62
-Tassilo              62
-Yanni Apostolilis    61
-Hannelore Ungar      59
-Elisabeth Wulff      59
-Sam Kahler           58
-Wilberga             58
-Cristiana Tavares    57
-Laila Schweizer      57
-Giannis Panilis      57
+Marisa Hofstetter    97
+Mirella Durtschi     94
+Lotta Hautzig        94
+Photios Mastrotis    85
+Nolan Schawalder     82
+Lara Duque           82
+Eleftheria Condeli   81
+Torben Johannsen     81
+Liam Krauser         80
+Nela Itschner        80
+Xene Franga          79
+Soren Jensen         79
+Borja Cutrina        78
+Grethe Due           78
+Albino Hernandes     77
+Christian Chistau    76
+Cristiana Tavares    76
+Yanni Apostolilis    76
+Lidia Almirall       75
+Sam Kahler           73
+Thorvald Lauritzen   72
+Gustav Messerschmidt 72
+Fernando Valdovinos  71
+Frobertus            71
+Laila Schweizer      71
+Elisabeth Wulff      70
+Tassilo              70
+Hannelore Ungar      69
+Giannis Panilis      68
+Wilberga             65
 
 (30 rows affected)
 
@@ -17438,4 +17438,4 @@ bias                                    mean squared error                      
 (1 row affected)
 
 
-Completion time: 2023-06-08T20:39:24.7356735+02:00
+Completion time: 2023-06-12T15:27:35.5446479+02:00

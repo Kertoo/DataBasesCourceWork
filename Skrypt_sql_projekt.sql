@@ -42,19 +42,19 @@ CREATE TABLE users(
 	nationality     VARCHAR(3)   NOT NULL,
 	education       VARCHAR(10)  NOT NULL,
 
-	PRIMARY KEY (user_name),
-	UNIQUE(user_name)
+	PRIMARY KEY (user_name)
 )
 GO
+
 
 -- visits
 IF OBJECT_ID('visits','U') IS NULL 
 CREATE TABLE visits(
-	id_visit	 INT IDENTITY(1, 1)			,
-	user_name	 VARCHAR(20)		NOT NULL,
-	date_enter	 DATETIME			NOT NULL,
-	date_exit	 DATETIME					,
-	view_count   INT				NOT NULL,
+	id_visit	 INT IDENTITY(1, 1),
+	user_name	 VARCHAR(20) NOT NULL,
+	date_enter	 DATETIME NOT NULL DEFAULT GETDATE(),
+	date_exit	 DATETIME DEFAULT NULL,
+	view_count   INT NOT NULL,
 
 	PRIMARY KEY (id_visit),
 	FOREIGN KEY (user_name) REFERENCES users(user_name)
@@ -65,9 +65,9 @@ GO
 -- products
 IF OBJECT_ID('products','U') IS NULL 
 CREATE TABLE products(
-	product_name	VARCHAR(20)			,
+	product_name	VARCHAR(20),
 	price			MONEY		NOT NULL,
-	category		VARCHAR(4)			,
+	category		VARCHAR(4),
 	stored_quantity INT			NOT NULL,
 	description	    VARCHAR(400)		,
 
@@ -105,6 +105,7 @@ CREATE TABLE predictions(
 	FOREIGN KEY (id_visit) REFERENCES visits(id_visit)
 )
 GO
+
 -- ---------------------------------
 -- Wstawianie wartoœci do tabel
 -- ---------------------------------
@@ -194,7 +195,6 @@ GO
 
 -- Do tabeli visits
 ---- Polecam to zwin¹æ ------
-BEGIN
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Lidia Almirall', '2023-04-20 11:47:27', '2023-04-20 13:58:07', 6)
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
@@ -3393,6 +3393,7 @@ INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Marisa Hofstetter', '2023-04-14 04:32:36', '2023-04-14 06:04:43', 1)
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Gustav Messerschmidt', '2023-05-14 02:20:59', '2023-05-14 02:45:11', 1)
+GO
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Xene Franga', '2023-04-18 09:45:02', '2023-04-18 10:17:26', 2)
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
@@ -5363,6 +5364,7 @@ INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Eleftheria Condeli', '2023-06-01 20:33:49', '2023-06-01 21:12:40', 1)
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Laila Schweizer', '2023-04-29 03:46:07', '2023-04-29 06:30:36', 5)
+GO
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Torben Johannsen', '2023-04-29 07:10:47', '2023-04-29 09:51:23', 4)
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
@@ -6959,6 +6961,7 @@ INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Lara Duque', '2023-05-19 06:46:35', '2023-05-19 07:24:01', 3)
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Laila Schweizer', '2023-06-09 03:05:19', '2023-06-09 06:16:31', 1)
+GO
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Liam Krauser', '2023-05-28 22:36:11', '2023-05-28 23:48:45', 4)
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
@@ -7829,6 +7832,7 @@ INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Tassilo', '2023-04-20 21:06:59', '2023-04-20 21:44:32', 2)
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Wilberga', '2023-04-16 02:10:36', '2023-04-16 03:15:23', 4)
+GO
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Elisabeth Wulff', '2023-05-18 22:50:29', '2023-05-19 00:48:35', 5)
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
@@ -8171,6 +8175,7 @@ INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Torben Johannsen', '2023-05-29 06:17:21', '2023-05-29 06:38:49', 3)
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Soren Jensen', '2023-05-18 04:12:16', '2023-05-18 05:10:36', 2)
+GO
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Liam Krauser', '2023-05-29 18:00:04', '2023-05-29 18:49:25', 4)
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
@@ -9245,6 +9250,7 @@ INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Photios Mastrotis', '2023-05-04 21:04:43', '2023-05-04 21:30:41', 4)
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Marisa Hofstetter', '2023-04-17 19:39:08', '2023-04-17 20:21:49', 4)
+GO
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Lara Duque', '2023-05-03 07:54:26', '2023-05-03 09:02:26', 5)
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
@@ -9593,6 +9599,7 @@ INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Nolan Schawalder', '2023-05-22 11:57:33', '2023-05-22 13:13:39', 2)
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Mirella Durtschi', '2023-04-28 02:13:18', '2023-04-28 02:13:30', 5)
+GO
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Photios Mastrotis', '2023-06-07 01:03:48', '2023-06-07 01:21:34', 2)
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
@@ -10195,7 +10202,6 @@ INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Wilberga', '2023-04-23 14:16:47', '2023-04-23 15:42:48', 6)
 INSERT INTO visits (user_name, date_enter, date_exit, view_count)
 VALUES ('Lotta Hautzig', '2023-05-26 15:47:25', '2023-05-26 16:33:33', 3)
-END
 GO
 
 
@@ -17506,10 +17512,12 @@ BEGIN
 		[mean squared error]           = AVG(POWER(1.0 * DATEDIFF(SS, CAST(p.predicted_time AS DATETIME), (v.date_exit-v.date_enter)), 2)),
 		[root mean squared error]      = SQRT(AVG(POWER(1.0 * DATEDIFF(SS, CAST(p.predicted_time AS DATETIME), (v.date_exit-v.date_enter)), 2))),
 		[mean absolute error]          = AVG(ABS(DATEDIFF(SS, CAST(p.predicted_time AS DATETIME), (v.date_exit-v.date_enter))) * 1.0),
-		[confidence interval coverage] = AVG(CASE 
+		[confidence interval coverage] = AVG(
+		CASE 
 			WHEN CAST(v.date_exit - v.date_enter AS TIME) BETWEEN p.low_pred AND p.high_pred THEN 1.0
 			ELSE 0.0
-		END)
+		END
+	)
 	FROM predictions p
 	INNER JOIN visits v ON p.id_visit = v.id_visit
 	WHERE p.alg_name = @algorithm
@@ -17534,11 +17542,11 @@ ORDER BY sales DESC
 
 -- Najczêœciej wizytuj¹cy u¿ytkownicy od 15 maja 2023 do dzisiaj
 PRINT 'Most frequent visitors from 15th of may to today 2023:'
-EXEC frequent_visits '2023-05-15'
+EXEC frequent_visits '20230515'
 
 -- Najczêœciej wizytuj¹cy u¿ytkownicy od 15 maja 2023 do 18 maja 2023
 PRINT 'Most frequent visitors from 15th of may to 18th of may 2023:'
-EXEC frequent_visits '2023-05-15', '2023-05-18'
+EXEC frequent_visits '20230515', '20230518'
 
 -- Kupione przedmioty przez u¿ytkownika oraz wydana iloœæ pieniêdzy w trakcie wizyty
 PRINT 'Visit of Christian Chistau on 12th of may 2023:'
