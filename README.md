@@ -1,5 +1,5 @@
 ## Repository with codes for my course on databeses
-The solutions to exercises that were solved during the calsses are in the folder [Exercises](https://github.com/Kertoo/DataBasesCourseWork/tree/master/Excercises)
+The solutions to exercises that were solved during the calsses are in the folder [Exercises](https://github.com/Kertoo/DataBasesCourseWork/tree/master/Exercises)
 
 Conception of database is in [this test file](https://github.com/Kertoo/DataBasesCourseWork/blob/master/P0%20Koncepcja%20projektu.txt) with the documentation for the database being located in [this pdf file](https://github.com/Kertoo/DataBasesCourseWork/blob/master/Bazy_danych____dokumentacja%201.pdf). Both are written in polish.
 
